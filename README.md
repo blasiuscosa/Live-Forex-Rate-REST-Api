@@ -11,8 +11,8 @@ Method: GET
 Example:
 /fx/api/currency/rates/AUDUSD
 
-![Single Pair](www.sauryatech.com/img/fx_sing.png)
+![Single Pair](http://www.sauryatech.com/img/fx_sing.png)
 
 /fx/api/currency/rates/AUDUSD, EURUSD
 
-![Multiple Pair](www.sauryatech.com/img/fx_multi.png)
+![Multiple Pair](http://lmsotfy.com/so.png)
