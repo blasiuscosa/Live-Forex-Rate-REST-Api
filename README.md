@@ -15,4 +15,4 @@ This is the live foreign exchange rate API using yahoo exchange service. The res
 
 /fx/api/currency/rates/AUDUSD, EURUSD
 
-![Multiple Pair](http://www.sauryatech.com/img/fx_sing.png)
+![Multiple Pair](http://www.sauryatech.com/img/fx_multi.png)
