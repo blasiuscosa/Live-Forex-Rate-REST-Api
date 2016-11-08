@@ -1,6 +1,6 @@
 # Live-Forex-Rate-REST-Api
 
-This is the live foreign exchange rate API using yahoo exchange service. The response is returned in JSON format. 
+This is the live foreign exchange rate RESTful API done by me. The response is returned in JSON format. 
 
 #### Method: GET
 
